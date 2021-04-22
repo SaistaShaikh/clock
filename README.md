@@ -15,3 +15,5 @@ Technologies Used
 -->JavaScript: The project uses JavaScript to write the apps logic.
 
 
+Deployment
+This project was deployed to GitHub Pages and can be viewed at: 
