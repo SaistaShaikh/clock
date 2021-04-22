@@ -16,4 +16,4 @@ Technologies Used
 
 
 Deployment
-This project was deployed to GitHub Pages and can be viewed at: 
+This project was deployed to GitHub Pages and can be viewed at: https://saistashaikh.github.io/clock/
